@@ -1,0 +1,15 @@
+# Archivo de claves secretas
+.env
+
+# Directorios de Python y caché
+__pycache__/
+*.pyc
+venv/
+
+# Carpetas de Jupyter y Visual Studio Code
+.ipynb_checkpoints/
+.vscode/
+
+# Archivos de datos grandes que no deben subirse
+*.csv
+*.xlsx
